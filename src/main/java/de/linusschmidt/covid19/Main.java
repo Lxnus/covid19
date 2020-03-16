@@ -51,9 +51,10 @@ public class Main {
         // List<List<Double>> recoveredTrainingData = this.extractData(recoveredPackets);
 
         // Plotting data
-        this.plot("Confirmed", "Date", "Confirmed", confirmedPackets, filter);
-        this.plot("Deaths", "Date", "Deaths", deathPackets, filter);
-        this.plot("Recovered", "Date", "Recovered", recoveredPackets, filter);
+        // where null: insert filter for plotting custom countries
+        this.plot("Confirmed", "Date", "Confirmed", confirmedPackets, null);
+        this.plot("Deaths", "Date", "Deaths", deathPackets, null);
+        this.plot("Recovered", "Date", "Recovered", recoveredPackets, null);
 
         // Predict rate for next 10 days.
         TimeSeriesDataPacket packet = this.getPacket("Germany", confirmedPackets);
