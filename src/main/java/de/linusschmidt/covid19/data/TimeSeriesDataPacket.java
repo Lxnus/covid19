@@ -1,7 +1,5 @@
 package de.linusschmidt.covid19.data;
 
-import java.util.Date;
-import java.util.HashMap;
 import java.util.TreeMap;
 
 public class TimeSeriesDataPacket {
@@ -49,22 +47,6 @@ public class TimeSeriesDataPacket {
 
     public void setCountry(String country) {
         this.country = country;
-    }
-
-    public double getLatitude() {
-        return latitude;
-    }
-
-    public void setLatitude(double latitude) {
-        this.latitude = latitude;
-    }
-
-    public double getLongitude() {
-        return longitude;
-    }
-
-    public void setLongitude(double longitude) {
-        this.longitude = longitude;
     }
 
     public TreeMap<String, Double> getSeries() {
