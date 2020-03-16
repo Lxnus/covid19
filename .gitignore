@@ -1,0 +1,10 @@
+# Project exclude paths
+/target/
+.idea/.gitignore
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/discord.xml
+.idea/misc.xml
+.idea/
+covid19.iml
+testoutput/
