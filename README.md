@@ -1,9 +1,9 @@
 # COVID-19 Prediction and Visualization Software
 
-### Software plots public data of the Corona (Covid-19) virus.
+## Software plots public data of the Corona (Covid-19) virus.
 
-#### Plot examples:
-##### Configs: with country filter!
+### Plot examples:
+#### Configs: with country filter!
 Confirmed plot:
 ![Tornadoes](images/c1.JPG) 
 Death plot:
