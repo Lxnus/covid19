@@ -4,6 +4,10 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Comparator;
 
+/**
+ * @author Linus Schmidt
+ * All rights reserved!
+ */
 public class DateComparator implements Comparator<String> {
 
     public int compare(String date1, String date2) {

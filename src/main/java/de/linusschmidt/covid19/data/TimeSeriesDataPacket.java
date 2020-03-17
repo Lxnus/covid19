@@ -2,6 +2,10 @@ package de.linusschmidt.covid19.data;
 
 import java.util.TreeMap;
 
+/**
+ * @author Linus Schmidt
+ * All rights reserved!
+ */
 public class TimeSeriesDataPacket {
 
     private String state;

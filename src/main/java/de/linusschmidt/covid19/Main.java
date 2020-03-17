@@ -23,6 +23,10 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
 
+/**
+ * @author Linus Schmidt
+ */
+
 public class Main {
 
     private FileUtil fileUtil;
