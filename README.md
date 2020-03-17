@@ -4,18 +4,9 @@
 
 ### Plot examples:
 #### Configs: with country filter!
-##### Confirmed plot:
-![Tornadoes](images/c1.JPG) 
-##### Death plot:
-![](images/d1.JPG) 
-##### Recovered plot:
-![](images/r2.JPG)
+| ![Tornadoes](images/c1.JPG) | ![Tornadoes](images/d1.JPG) | ![Tornadoes](images/r1.JPG) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ##### Configs: *without* country filter!
-##### Confirmed plot:
-![Tornadoes](images/c1.JPG) 
-##### Death plot:
-![Tornadoes](images/d1.JPG) 
-##### Recovered plot:
-![Tornadoes](images/r2.JPG)
- 
+| ![Tornadoes](images/c2.JPG) | ![Tornadoes](images/d2.JPG) | ![Tornadoes](images/r2.JPG) | 
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
