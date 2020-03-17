@@ -7,9 +7,9 @@
 Confirmed plot:
 ![Tornadoes](images/c1.JPG) 
 Death plot:
-![Tornadoes](images/d1.JPG) 
+![](images/d1.JPG) 
 Recovered plot:
-![Tornadoes](images/r2.JPG)
+![](images/r2.JPG)
 
 ##### Configs: *without* country filter!
 Confirmed plot:
