@@ -25,8 +25,8 @@ import java.util.*;
 
 /**
  * @author Linus Schmidt
+ * All rights reserved!
  */
-
 public class Main {
 
     private FileUtil fileUtil;
